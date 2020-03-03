@@ -1,0 +1,8 @@
+<suite name="MouseAction">
+    <test name="MouseACTION">
+        <classes>
+            <class name="Tests.com.Apprun.SalaryRunner"></class>
+        </classes>
+    </test>
+</suite>
+
